@@ -1,4 +1,15 @@
 %HW5
+%GB comments:
+1a 70 question asks to output a file in the repository of the mask image. No image provided.
+1b 100
+1c 70 same issue as 1a
+1d 100
+2yeast: 100
+2worm: 95 the major concern is the fact that there is a mask framing the image that will be treated equally to the worm masks.
+2bacteria: 100
+2phase: 100 
+Overall: 92
+
 
 % Note. You can use the code readIlastikFile.m provided in the repository to read the output from
 % ilastik into MATLAB.
